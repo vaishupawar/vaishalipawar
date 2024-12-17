@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Redis, RabbitMQ Services**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vaishali-pawar-27a3671b5/](https://www.linkedin.com/in/vaishali-pawar-27a3671b5/)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **Python, Django, Flask, DRF, SQL**
 
